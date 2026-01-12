@@ -1,0 +1,5 @@
+{
+  "name": "铁路智能倒班系统",
+  "description": "A specialized shift calendar application for railway operations. Features perpetual calendar, real-time duty team calculation, and personnel display for Operations and Shunting roles.",
+  "requestFramePermissions": []
+}
